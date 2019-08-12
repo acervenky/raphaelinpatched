@@ -1,0 +1,68 @@
+system/lost+found 0 0 700
+system/init.miui.cust.rc 0 2000 750
+system/init.usb.rc 0 2000 750
+system/init.recovery.hardware.rc 0 2000 750
+system/product 0 0 644 /system/product
+system/data 1000 1000 771
+system/odm 0 0 755
+system/odm/firmware 0 0 644 /vendor/odm/firmware
+system/odm/lib64 0 0 644 /vendor/odm/lib64
+system/odm/framework 0 0 644 /vendor/odm/framework
+system/odm/bin 0 0 644 /vendor/odm/bin
+system/odm/etc 0 0 644 /vendor/odm/etc
+system/odm/app 0 0 644 /vendor/odm/app
+system/odm/priv-app 0 0 644 /vendor/odm/priv-app
+system/odm/lib 0 0 644 /vendor/odm/lib
+system/odm/overlay 0 0 644 /vendor/odm/overlay
+system/default.prop 0 0 600 system/etc/prop.default
+system/init.miui.nativedebug.rc 0 2000 750
+system/init.environ.rc 0 2000 750
+system/init.batteryd.rc 0 2000 750
+system/bin 0 0 644 /system/bin
+system/res 0 0 755
+system/res/images 0 0 755
+system/res/images/charger 0 0 755
+system/res/images/charger/battery_fail.png 0 0 644
+system/res/images/charger/battery_scale.png 0 0 644
+system/init.recovery.qcom.rc 0 2000 750
+system/acct 0 0 755
+system/proc 0 0 755
+system/bugreports 0 0 644 /data/user_de/0/com.android.shell/files/bugrepor
+system/sbin 0 2000 750
+system/sbin/charger 0 2000 750
+system/sbin/ueventd 0 2000 750 ../init
+system/sbin/setlockstate 0 2000 750
+system/sbin/watchdogd 0 2000 750 ../init
+system/sys 0 0 755
+system/d 0 0 644 /sys/kernel/debug
+system/etc 0 0 644 /system/etc
+system/ueventd.rc 0 0 644
+system/init.usb.configfs.rc 0 2000 750
+system/init.mi_thermald.rc 0 2000 750
+system/oem 0 0 755
+system/cache 1000 2001 770
+system/verity_key 0 0 644
+system/init.zygote32.rc 0 2000 750
+system/init 0 2000 750
+system/charger 0 0 644 /sbin/charger
+system/storage 0 1028 751
+system/init.rc 0 2000 750
+system/init.miui.google_revenue_share_v2.rc 0 2000 750
+system/metadata 0 0 755
+system/sdcard 0 0 644 /storage/self/primary
+system/dev 0 0 755
+system/init.miui.rc 0 2000 750
+system/init.mishow.ctl.rc 0 2000 750
+system/config 0 0 555
+system/init.zygote64_32.rc 0 2000 750
+system/init.miui.early_boot.sh 0 2000 750
+system/init.miui.google_revenue_share.rc 0 2000 750
+system/init.miui.post_boot.sh 0 2000 750
+system/vendor 0 2000 755
+system/mnt 0 1000 755
+system/cust 0 0 755
+system/system 0 0 755
+system/system/product 0 0 755
+system/system/product/build.prop 0 0 600
+system/system/build.prop 0 0 600
+system/system/lib64 0 0 755
